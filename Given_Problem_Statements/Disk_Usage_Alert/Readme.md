@@ -9,3 +9,5 @@ This threshold value helps us in evaluating whether the DISK is on HIGH USAGE or
 
 Here the usage variable created fetches the present utilization of the disk and stores the value which
 will be later on used for checking if the usage is HIGH or MINIMAL
+
+![alt text](image.png)
